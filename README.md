@@ -3,11 +3,6 @@
 ## 📊 Project Overview
 An end-to-end machine learning project that predicts customer churn for a telecommunications company. This system analyzes customer data to identify at-risk customers and provides actionable insights through an interactive dashboard.
 
-![Dashboard Screenshot](images/dashboard-screenshot.png)
-
-## 🚀 Live Demo
-[🔗 Try the Live Dashboard](https://your-username-customer-churn.streamlit.app/) *[Add your Streamlit Cloud URL after deployment]*
-
 ## 🎯 Business Impact
 - **Reduce customer acquisition costs** by 15-20% through proactive retention
 - **Identify at-risk customers** with 85%+ accuracy
